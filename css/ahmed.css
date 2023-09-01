@@ -123,7 +123,7 @@ header  .main-nav > li > a{
 }
 
 }
-}
+
 header  .main-nav > li > a::before{
     content: "";
     position: absolute;
@@ -200,11 +200,11 @@ header .mega-nav .imgcon img {
     animation: up-and-down 5s linear infinite;
     position: relative;
 }
-@media (max-width: 991px){
+/* @media (max-width: 991px){
     .landing .image img{
         display: none;
     }
-}
+} */
 .landing .text {
     flex: 1;
    
