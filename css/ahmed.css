@@ -153,7 +153,7 @@ header .mega-nav{
     border-bottom: 3px solid var(--main-color);
     gap: 80px;
     padding: 30px;
-    opacity: 1;
+    opacity: 0;
     transition: top var(--main-transition), opacity var(--main-transition);
 
 }
@@ -213,28 +213,6 @@ header .mega-nav .links i{
      margin-right: 10px;
 }
 /* end header  */
-/* start mega-nav  */
-/* header .mega-nav{
-    position: absolute;
-    display: flex;
-    top: var(--main-height);
-    left: 260px;
-}
-
-header .mega-nav .links > li > a {
-    text-transform: capitalize;
-    color: var(--main-color);
-    padding: 23px 40px;
-    display: block;
-}
-header .mega-nav .imgcon{
-
-}
-header .mega-nav .imgcon img {
-
-} */
-
-/* end mega-nav  */
 /* start landing  */
 .landing {
     position: relative;
